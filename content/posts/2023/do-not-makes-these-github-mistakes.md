@@ -29,7 +29,7 @@ I've made a LOT of GitHub mistakes! Here is a list of things most new users do n
 
 ## Pull Requests
 
-Pull requests are a great way of collaboration. However, most developers joke that they just close and don't merge most public pull requests. This is mainly because there can be a lot of low quality or hap-hazard commits. I've seen this in many of projects and have made strict requirements before accepting any. The biggest rule I stole from Linus Torvalds, "Never merge a pull request that you do NOT understand."
+Pull requests are a great way of collaboration. However, most developers joke that they just close and don't merge most public pull requests. This is mainly because there can be a lot of low quality or hap-hazard commits. I've seen this in many of my projects and have made strict requirements before accepting any. The biggest rule I stole from Linus Torvalds, "Never merge a pull request that you do NOT understand."
 
 ![pr](/images/2023/do-not-make-these-github-mistakes/pullrequest.png)
 
